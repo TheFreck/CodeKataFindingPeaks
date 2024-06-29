@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\bin\Debug\net8.0\FindingPeaks.exe
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\bin\Debug\net8.0\FindingPeaks.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\bin\Debug\net8.0\FindingPeaks.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\bin\Debug\net8.0\FindingPeaks.dll
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\bin\Debug\net8.0\FindingPeaks.pdb
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.sourcelink.json
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.dll
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\refint\FindingPeaks.dll
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.pdb
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\FindingPeaks.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\FindingPeaks\FindingPeaks\FindingPeaks\obj\Debug\net8.0\ref\FindingPeaks.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPeaks", "FindingPeaks\FindingPeaks.csproj", "{E62D8B49-C06F-4CEC-AB96-6BECA86C65E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPeaks.Specs", "FindingPeaks.Specs\FindingPeaks.Specs.csproj", "{57A92CEB-FECE-462F-A108-0F035296BE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62D8B49-C06F-4CEC-AB96-6BECA86C65E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62D8B49-C06F-4CEC-AB96-6BECA86C65E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62D8B49-C06F-4CEC-AB96-6BECA86C65E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62D8B49-C06F-4CEC-AB96-6BECA86C65E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A92CEB-FECE-462F-A108-0F035296BE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A92CEB-FECE-462F-A108-0F035296BE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A92CEB-FECE-462F-A108-0F035296BE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A92CEB-FECE-462F-A108-0F035296BE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71FED852-8286-44C1-8C69-3AD1A7F3EC3B}
+	EndGlobalSection
+EndGlobal
