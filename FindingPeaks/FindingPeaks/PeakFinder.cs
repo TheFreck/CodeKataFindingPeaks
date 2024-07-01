@@ -10,11 +10,17 @@ namespace FindingPeaks
     {
         public static Dictionary<string, List<int>> GetPeaks(int[] input)
         {
+            if (input == null || input.Length == 0) 
+                return new Dictionary<string, List<int>>
+                {
+                    {"pos", new List<int>() },
+                    {"peaks", new List<int>() },
+                };
             var goingUp = false;
             var peaks = new Dictionary<string, List<int>>
             {
-                { "pos", [] },
-                { "peaks", [] }
+                { "pos", new List<int>() },
+                { "peaks", new List<int>() }
             };
             var plateau = false;
             var plateauStart = 0;
@@ -43,7 +49,7 @@ namespace FindingPeaks
                 else
                 {
                     goingUp = true;
-                    //plateau = false;
+                    plateau = false;
                 }
             }
             return peaks;
